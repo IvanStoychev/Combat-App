@@ -23,6 +23,7 @@ namespace Combat_App
         public MainWindow()
         {
             InitializeComponent();
+            //create repo
         }
     }
 }
